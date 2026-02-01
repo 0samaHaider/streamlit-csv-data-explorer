@@ -1,8 +1,9 @@
-````markdown
 # CSV Data Explorer 📊
 
 A simple **Streamlit app** to upload, explore, and visualize CSV data.  
 Easily preview your dataset, generate charts, and download visualizations.  
+
+---
 
 ## Features
 
@@ -18,7 +19,6 @@ Easily preview your dataset, generate charts, and download visualizations.
   - Multiple chart types: Line, Bar, Scatter, Area, Histogram, Box Plot  
   - Pick chart color, width, and height  
   - Download chart as PNG  
-
 ---
 
 ## Installation
@@ -83,4 +83,11 @@ You can also install all dependencies at once:
 
 ```bash
 pip install streamlit pandas matplotlib seaborn
+```
+
+---
+
+If you want, I can **also make a `requirements.txt` file for this project** ready to upload with the repo.  
+
+Do you want me to do that?
 ```
