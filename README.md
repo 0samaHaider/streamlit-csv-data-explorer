@@ -86,8 +86,3 @@ pip install streamlit pandas matplotlib seaborn
 ```
 
 ---
-
-If you want, I can **also make a `requirements.txt` file for this project** ready to upload with the repo.  
-
-Do you want me to do that?
-```
