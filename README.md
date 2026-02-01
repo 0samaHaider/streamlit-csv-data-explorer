@@ -26,7 +26,7 @@ Easily preview your dataset, generate charts, and download visualizations.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/csv-data-explorer.git
+git clone https://github.com/0samaHaider/csv-data-explorer.git
 cd csv-data-explorer
 ````
 
