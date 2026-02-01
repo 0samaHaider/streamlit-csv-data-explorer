@@ -1,12 +1,8 @@
----
-
 ````markdown
 # CSV Data Explorer 📊
 
 A simple **Streamlit app** to upload, explore, and visualize CSV data.  
 Easily preview your dataset, generate charts, and download visualizations.  
-
----
 
 ## Features
 
@@ -87,6 +83,4 @@ You can also install all dependencies at once:
 
 ```bash
 pip install streamlit pandas matplotlib seaborn
-```
-Do you want me to do that?
 ```
